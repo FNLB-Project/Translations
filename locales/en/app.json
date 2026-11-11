@@ -84,7 +84,13 @@
 		"availableFirst": "Available First",
 		"busyFirst": "Busy First",
 		"lessFriendsFirst": "Less Friends First",
-		"moreFriendsFirst": "More Friends First"
+		"moreFriendsFirst": "More Friends First",
+		"onlineFirst": "Online First",
+		"offlineFirst": "Offline First",
+		"nameAsc": "Name (A-Z)",
+		"nameDesc": "Name (Z-A)",
+		"moreMatchesFirst": "More Matches First",
+		"lessMatchesFirst": "Less Matches First"
 	},
 	"errors": {
 		"unableRemoveConnection": "Unable to remove the connection",
